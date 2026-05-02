@@ -1,5 +1,7 @@
 # Advance Calculator
 
+Repository URL: https://github.com/vprayag2005/Advance-Calculator
+
 A simple advanced calculator written in Python.
 
 ## Features
@@ -20,7 +22,3 @@ python main.py
 ## Project structure
 
 - `main.py` — entry point
-
-## License
-
-MIT (or see repository license file)
